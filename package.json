@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"commander": "0.5.2",
-        "nconf": "0.5.1",
+        "nconf": "0.8.2",
         "prompt": "0.1.12"
 	},
 	"engines": { "node": "0.6.10" }
